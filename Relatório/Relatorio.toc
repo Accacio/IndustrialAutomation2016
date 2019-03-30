@@ -1,0 +1,12 @@
+\select@language {portuguese}
+\contentsline {section}{\numberline {1}Motiva\IeC {\c c}\IeC {\~a}o}{3}{section.1}
+\contentsline {section}{\numberline {2}Introdu\IeC {\c c}\IeC {\~a}o e Objetivo}{3}{section.2}
+\contentsline {paragraph}{$2^o$ Trabalho - Sistema de sele\IeC {\c c}\IeC {\~a}o de pe\IeC {\c c}as II.\\}{3}{section*.2}
+\contentsline {section}{\numberline {3}Rede de Petri}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}Decis\IeC {\~o}es de projeto}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Estados caracter\IeC {\'\i }sticos}{6}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Demais estados}{7}{subsection.3.3}
+\contentsline {section}{\numberline {4}Grafcet}{8}{section.4}
+\contentsline {section}{\numberline {5}Ladder}{10}{section.5}
+\contentsline {section}{\numberline {6}Conclus\IeC {\~a}o}{10}{section.6}
+\contentsline {section}{\numberline {A}Programa em Ladder}{10}{appendix.A}
